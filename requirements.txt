@@ -1,4 +1,3 @@
-json
 natsort
 vtk
 tkintertable
